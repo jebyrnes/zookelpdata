@@ -1,4 +1,4 @@
 zookelpdata
 ===========
 
-Code for processing data from (http://floatingforests.org)
+Code for processing data from http://floatingforests.org
